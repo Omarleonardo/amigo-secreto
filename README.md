@@ -5,4 +5,7 @@ Juego para encontrar un amigo secreto.
 
 Este interesante proyecto implementa los fundamentos de Javascript, html y css para interacturar con un usuario que quiera conocer su amigo secreto. 
 
-Es una forma divertida de explorar a través de una interfaz amigable como con un simple script en Javascript 
+[Descripción] A través de un input podrás añadir tus amigos uno por uno con el botón añadir. Después de que has ingresado a todos tus amigos, por medio del botón
+sortear amigo, el aplicativo eligirá aleatoriamente uno de tus amigos ingresados
+
+[Tecnologías utilizadas] Se implementó html, estilos con css y un script en Javascript que contiene la lógica del aplicativo
